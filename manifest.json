@@ -10,6 +10,11 @@
         "name": "Card Gallery",
         "description": "Displays ad performance in card layout",
         "iconUrl": "https://dummyimage.com/24x24/000/fff",
+        "resource": {
+          "js": "index.js",
+          "config": "index.json",
+          "css": "index.css"
+        },
         "useLegacyFormat": false
       }
     ]
