@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": "concepts",
+      "label": "Dimensions & Metrics",
+      "elements": [
+        {
+          "id": "Thumbnail",
+          "label": "Thumbnail URL",
+          "type": "DIMENSION",
+          "options": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        {
+          "id": "ROAS",
+          "label": "ROAS",
+          "type": "METRIC",
+          "options": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        {
+          "id": "CTR",
+          "label": "CTR",
+          "type": "METRIC",
+          "options": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        {
+          "id": "CPC",
+          "label": "CPC",
+          "type": "METRIC",
+          "options": {
+            "min": 0,
+            "max": 1
+          }
+        }
+      ]
+    }
+  ],
+  "style": []
+}
